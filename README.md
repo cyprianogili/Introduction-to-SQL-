@@ -389,6 +389,3 @@ df2 = pd.read_sql(query, con=conn)
 > SQL is not just a tool — it is a career skill that opens doors everywhere.
 > Pandas and SQL are partners, not competitors — SQL handles the heavy lifting, pandas handles the analysis.
 
----
-
-*Created as part of the TS Academy Data Science course — Week 10*
